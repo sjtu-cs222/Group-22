@@ -11,3 +11,4 @@
 6. In Dataset_generation directory:
     1) generator.py is used to generate raw samples.
     2) processing.py is used to processs (resize, etc) the raw samples.
+7. Dataset and fonts set are in https://pan.baidu.com/s/1zbN-KPNk0R3QpZRkBTV94A
